@@ -39,3 +39,4 @@ def multi_thread():
 if __name__ == "__main__":
     single_thread()
     multi_thread()
+    print("zhangxuanming")
